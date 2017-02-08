@@ -1,0 +1,1 @@
+This project is mock-up of an online bookstore which has been developed using GRAILS 3.2.4.The bookstore features a product search, sorting based on categories, prices. The whole site has been bootstrapped for mobile use. This project is a work in progress and I will update it as and when I get time.
